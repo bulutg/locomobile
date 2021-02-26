@@ -5,6 +5,9 @@ Locomobile is a mobile application for train companies. It has a mobile applicat
 ## Team Members
 
 Bulut Gozubuyuk
+
 Berk Yildiz
+
 Kutsal Bekci
+
 Onat Postaci
